@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
- html {
+html {
     line-height: 1.15;
     /* 1 */
     -webkit-text-size-adjust: 100%;
@@ -527,8 +527,8 @@ a:active {
     position: relative;
 }
 
-.card-testimonial .card-quote::before{
-    content: \201C;
+.card-testimonial .card-quote::before {
+    content: "\201C";
     position: absolute;
     top: -4.5rem;
     left: -1rem;
