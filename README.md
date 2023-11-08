@@ -1,6 +1,6 @@
 # HTML and CSS Basics
 
-<img src="https://logowik.com/content/uploads/images/css3-html51661.jpg"  alt="image" style="width:500px;"/>
+<img src="https://logowik.com/content/uploads/images/css3-html51661.jpg"  alt="image" style="width:1000px;"/>
 
 Welcome to the HTML and CSS Basics repository! This repository is designed to help you learn the fundamentals of HTML and CSS, the building blocks of web development. Whether you're a beginner looking to get started with web development or someone looking to refresh their knowledge, you've come to the right place.
 
