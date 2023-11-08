@@ -29,7 +29,7 @@ HTML serves as the backbone of web content, providing the structure and semantic
 - Use HTML elements to format text, add images, and create links.
 - Understand the Document Object Model (DOM) and how it represents web page structure.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="image" style="width:200px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="image" style="width:100px;"/>
 
 
 ## CSS (Cascading Style Sheets)
