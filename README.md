@@ -18,7 +18,7 @@ Welcome to the HTML and CSS Basics repository! This repository is designed to he
 HTML and CSS are essential technologies for creating and styling web pages. HTML is used for structuring the content of a webpage, while CSS is used for styling and layout. Together, they form the foundation of web development, allowing you to bring your creative ideas to life on the internet.
     
 
-![HTML and CSS](https://example.com/html-and-css-image.png)
+![HTML and CSS](https://www.bitdegree.org/learn/storage/media/images/css-tutorial-img4-02.o.png)
 
 ## HTML (HyperText Markup Language)
 
