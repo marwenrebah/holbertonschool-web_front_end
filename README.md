@@ -29,7 +29,7 @@ HTML serves as the backbone of web content, providing the structure and semantic
 - Understand the Document Object Model (DOM) and how it represents web page structure.
 
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png)
 
 ## CSS (Cascading Style Sheets)
 
