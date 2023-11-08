@@ -1,6 +1,10 @@
 # HTML and CSS Basics
 
-🚀 Welcome to the HTML and CSS Basics repository! This repository is designed to help you learn the fundamentals of HTML and CSS, the building blocks of web development. Whether you're a beginner looking to get started with web development or someone looking to refresh their knowledge, you've come to the right place.
+![HTML and CSS](https://miro.medium.com/v2/resize:fit:1140/1*r0TkcCU3hKl7yuG5fFcZVA.png)
+<img src="https://miro.medium.com/v2/resize:fit:1140/1*r0TkcCU3hKl7yuG5fFcZVA.png" alt="image" style="width:200px;"/>
+
+
+Welcome to the HTML and CSS Basics repository! This repository is designed to help you learn the fundamentals of HTML and CSS, the building blocks of web development. Whether you're a beginner looking to get started with web development or someone looking to refresh their knowledge, you've come to the right place.
 
 ## Table of Contents
 
@@ -16,7 +20,7 @@
 HTML and CSS are essential technologies for creating and styling web pages. HTML is used for structuring the content of a webpage, while CSS is used for styling and layout. Together, they form the foundation of web development, allowing you to bring your creative ideas to life on the internet.
     
 
-![HTML and CSS](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231108%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231108T130435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=284cece2cefa914d5a3d3dfff05f72e9519a86154b23c9fe1502b88cb3dc267d)
+![HTML and CSS](https://www.bitdegree.org/learn/storage/media/images/css-tutorial-img4-02.o.png)
 
 ## HTML (HyperText Markup Language)
 
