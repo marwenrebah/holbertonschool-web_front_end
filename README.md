@@ -1,6 +1,6 @@
 # HTML and CSS Basics
 
-<img src="https://www.pngarea.com/pngs/186/8815565_css3-logo-png-html-and-css-logo-transparent.png"  alt="image" style="width:1000px;"/>
+<img src="https://ideacdn.net/idea/ct/82/myassets/blogs/html-css.jpg?revision=1581690718"  alt="image" style="width:1000px;"/>
 
 Welcome to the HTML and CSS Basics repository! This repository is designed to help you learn the fundamentals of HTML and CSS, the building blocks of web development. Whether you're a beginner looking to get started with web development or someone looking to refresh their knowledge, you've come to the right place.
 
