@@ -1,6 +1,6 @@
 # HTML and CSS Basics
 
-![HTML and CSS](https://miro.medium.com/v2/resize:fit:1140/1*r0TkcCU3hKl7yuG5fFcZVA.png)
+![HTML and CSS](https://logowik.com/content/uploads/images/css3-html51661.jpg)
 
 
 Welcome to the HTML and CSS Basics repository! This repository is designed to help you learn the fundamentals of HTML and CSS, the building blocks of web development. Whether you're a beginner looking to get started with web development or someone looking to refresh their knowledge, you've come to the right place.
@@ -40,7 +40,7 @@ CSS empowers you to control the visual presentation of your web pages. It's the 
 - Work with selectors, classes, and IDs to target specific elements for styling.
 - Create responsive designs that adapt to different screen sizes and devices.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" text-align="center" alt="image" style="width:100px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="image" style="width:100px;"/>
 
 
 
