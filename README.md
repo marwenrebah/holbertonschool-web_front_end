@@ -39,7 +39,7 @@ CSS empowers you to control the visual presentation of your web pages. It's the 
 - Work with selectors, classes, and IDs to target specific elements for styling.
 - Create responsive designs that adapt to different screen sizes and devices.
 
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png)
 
     
 ## Resources
