@@ -1,6 +1,6 @@
 # HTML and CSS Basics
 
-<img src="https://logowik.com/content/uploads/images/css3-html51661.jpg"  alt="image" style="width:1000px;"/>
+<img src="https://www.vhv.rs/dpng/d/127-1270973_thumb-image-icon-html-css-png-transparent-png.png"  alt="image" style="width:1000px;"/>
 
 Welcome to the HTML and CSS Basics repository! This repository is designed to help you learn the fundamentals of HTML and CSS, the building blocks of web development. Whether you're a beginner looking to get started with web development or someone looking to refresh their knowledge, you've come to the right place.
 
@@ -9,9 +9,7 @@ Welcome to the HTML and CSS Basics repository! This repository is designed to he
 1. [Introduction](#introduction)
 2. [HTML (HyperText Markup Language)](#html-hypertext-markup-language)
 3. [CSS (Cascading Style Sheets)](#css-cascading-style-sheets)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [Resources](#resources)
+4. [Resources](#resources)
 
 ## Introduction
 
