@@ -16,7 +16,7 @@
 HTML and CSS are essential technologies for creating and styling web pages. HTML is used for structuring the content of a webpage, while CSS is used for styling and layout. Together, they form the foundation of web development, allowing you to bring your creative ideas to life on the internet.
     
 
-![HTML and CSS](https://www.bitdegree.org/learn/storage/media/images/css-tutorial-img4-02.o.png)
+![HTML and CSS](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231108%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231108T130435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=284cece2cefa914d5a3d3dfff05f72e9519a86154b23c9fe1502b88cb3dc267d)
 
 ## HTML (HyperText Markup Language)
 
