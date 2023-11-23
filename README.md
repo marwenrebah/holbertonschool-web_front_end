@@ -53,3 +53,7 @@ Check out the following resources to further enhance your HTML and CSS knowledge
 - [W3Schools - CSS Tutorial](https://www.w3schools.com/css/)
 
 Happy coding and building amazing web experiences with HTML and CSS!
+
+🚀 Marwen Rebah<br>
+📧 Email: 6863@holbertonstudents.com<br>
+👻 Github: [https://github.com/marwenrebah](https://github.com/marwenrebah)<br>
