@@ -54,6 +54,7 @@ Check out the following resources to further enhance your HTML and CSS knowledge
 
 Happy coding and building amazing web experiences with HTML and CSS!
 
+## 👥 Author
 🚀 Marwen Rebah<br>
 📧 Email: 6863@holbertonstudents.com<br>
-👻 Github: [https://github.com/marwenrebah](https://github.com/marwenrebah)<br>
+👻 Github: https://github.com/marwenrebah
